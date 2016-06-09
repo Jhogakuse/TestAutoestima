@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Autoestimetro</string>
+    <string name="ins">Insertar</string>
+    <string name="modif">Modificar</string>
+    <string name="elim">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
